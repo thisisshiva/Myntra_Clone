@@ -1,0 +1,16 @@
+# Dependencies
+/node_modules
+/2_actual_backend/node_modules
+
+# Environment variables
+.env
+
+# IDE or editor files
+.vscode/
+*.swp
+
+# Log files
+*.log
+
+# Build files
+/build/
